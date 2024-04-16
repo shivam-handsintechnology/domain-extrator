@@ -1,0 +1,11 @@
+{
+  "name": "domain-extractor",
+  "version": "0.0.1",
+  "description": "this is a security tool for web server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node  index.js "
+  },
+  "author": "shivam",
+  "license": "ISC"
+}
